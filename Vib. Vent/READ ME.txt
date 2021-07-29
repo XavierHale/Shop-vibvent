@@ -1,0 +1,18 @@
+Thank you for downloading the Vibrant Venture demo!
+To play the game, extract the 'Vibrant Venture - DEMO 3.1.3' .zip and run the 'Vibrant Venture.exe' file.
+
+NOTE: Your PC may claim the game is virus because it's an unsigned program since it's still in development. 
+Should this happen, simply click 'Run anyway'.
+
+Also, don't forget to support our Kickstarter (and tell your friends!):
+https://www.kickstarter.com/projects/semag-games/vibrant-venture-a-pixel-art-2d-adventure-platformer
+
+If you run into any problems, you can join our Discord server and ask for help:
+http://discord.gg/SSUTPCU
+
+Alternatively, you can DM me on Twitter:
+https://twitter.com/Pattrigue
+
+Enjoy!
+
+- Pattrigue
